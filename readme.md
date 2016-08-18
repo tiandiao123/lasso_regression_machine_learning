@@ -1,5 +1,6 @@
 Name:Cuiqing Li
-Submitted Date:8/15/2016
+
+Submitted Date:8/17/2016
 
 This project is used to deal with two main tasks:
 First one is that I use  python programming language to use lasso algorithms in the machine learning to solve some problems in the applications.(the codes are in the first file)
